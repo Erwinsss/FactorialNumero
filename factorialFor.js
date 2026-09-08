@@ -6,5 +6,5 @@ function factorial(n) {
     return resultado;
 }
 
-// Ejemplo de uso
-console.log(factorial(5)); // 120
+
+
